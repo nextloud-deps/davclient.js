@@ -1,2 +1,1 @@
-# davclient.js
-WebDAV, CalDAV and CardDAV client for javascript
+This is Bug Bounty Hackerone Test
